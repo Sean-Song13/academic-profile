@@ -1,7 +1,7 @@
 ---
 title: Xinhao Song
 role: CSE Meng student at WashU
-avatar_filename: profile.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Computer Graphics
