@@ -23,7 +23,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Washington University in St. Loui
+  - name: Washington University in St. Louis
     url: https://wustl.edu/
 education:
   courses:
