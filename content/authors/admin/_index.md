@@ -1,5 +1,5 @@
 ---
-title: Xinhao Song
+title: Xinhao SongSS
 role: CSE Meng student at WashU
 avatar_filename: profile.jpg
 bio: ""
