@@ -1,6 +1,7 @@
 ---
 title: Xinhao Song
 role: CSE Meng student at WashU
+avatar_filename: profile.jpg
 bio: ""
 interests:
   - Computer Graphics
@@ -28,7 +29,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Xinhao Song is a graduate student at Washington University in St.Louis McKelvey School of Engineering. His interests include computer graphics, computational geometry, and artificial intelligence. He has diverse projects experience in image processing, game development, ios application, AR/VR.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}Resume{{< /staticref >}}.
