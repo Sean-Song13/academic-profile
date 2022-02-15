@@ -22,28 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Software Engineer
+    company: Unity Technologies, Inc
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    company_logo: Unity_Technologies_logo
+    location: Shanghai, China
+    date_start: '2020-10'
+    date_end: '2021-06'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Developed digital twin application to help with daily operation and maintenance of subway system by synchronizing device information with IoT database and providing interactive interfaces via GUI to control device status.
+        * Operated exhibition project and proposed technical solutions based on customer requirements. Built interactive virtual reality application on Oculus quest2 to show construction process of building via procedural animation.
+        * Extended plug-in tools of Revit, Navisworks, Sketchup to support Reflect automated batch export. Designed a solution to resolve the exception-related block in the automated exporting process.
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
