@@ -10,6 +10,7 @@ headless: true
 weight: 30
 
 title: Skills
+draft: true
 subtitle:
 
 # Showcase personal skills or business features.

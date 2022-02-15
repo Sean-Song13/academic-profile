@@ -11,7 +11,7 @@ weight: 60
 
 title: Recent Posts
 subtitle:
-
+draft: true
 content:
   # Page type to display. E.g. post, talk, publication...
   page_type: post
