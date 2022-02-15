@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: Unity_Technologies_logo
     location: Shanghai, China
-    date_start: '2020-10'
-    date_end: '2021-06'
+    date_start: '2020-10-10'
+    date_end: '2021-06-30'
     description: |2-
         Responsibilities include:
         
