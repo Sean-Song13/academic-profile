@@ -1,5 +1,5 @@
 ---
-title: illusion
+title: Illusion
 share: false
 summary: A puzzle game developed with Unity
 tags:
@@ -10,7 +10,6 @@ date: "2020-06-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 links:
