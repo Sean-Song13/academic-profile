@@ -32,7 +32,6 @@ experience:
     date_end: 
     description:
 
-experience:
   - title: Software Engineer
     company: Unity Technologies, Inc
     company_url: 'https://unity.com/'
@@ -47,7 +46,6 @@ experience:
         * Operated exhibition project and proposed technical solutions based on customer requirements. Built interactive virtual reality application on Oculus quest2 to show construction process of building via procedural animation.
         * Extended plug-in tools of Revit, Navisworks, Sketchup to support Reflect automated batch export. Designed a solution to resolve the exception-related block in the automated exporting process.
 
-experience:
   - title: BEng in Software Engineering
     company: University of Electronic Science and Technology of China
     company_url: 'https://en.uestc.edu.cn/'
