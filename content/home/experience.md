@@ -23,14 +23,6 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
-  - title: MEng in Computer Science
-    company: Washington University in St. Louis
-    company_url: 'https://wustl.edu/'
-    company_logo: wustl
-    location: St. Louis, MO
-    date_start: '2021-08-15'
-    date_end: 
-    description:
 
   - title: Software Engineer
     company: Unity Technologies, Inc
@@ -46,15 +38,6 @@ experience:
         * Operated exhibition project and proposed technical solutions based on customer requirements. Built interactive virtual reality application on Oculus quest2 to show construction process of building via procedural animation.
         * Extended plug-in tools of Revit, Navisworks, Sketchup to support Reflect automated batch export. Designed a solution to resolve the exception-related block in the automated exporting process.
 
-  - title: BEng in Software Engineering
-    company: University of Electronic Science and Technology of China
-    company_url: 'https://en.uestc.edu.cn/'
-    company_logo: uestc
-    location: Sichuan, China
-    date_start: '2016-09-01'
-    date_end: '2020-06-15'
-    description:
-        
 
 design:
   columns: '2'
