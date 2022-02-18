@@ -1,22 +1,22 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Cloth Simulation
+summary: Physical simulation acceleration using OpenGL Shader
 tags:
-- Deep Learning
+- Computer Graphics
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://ffjmmm.github.io/CS184-final/webpage/index.html"
 
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+#links:
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
