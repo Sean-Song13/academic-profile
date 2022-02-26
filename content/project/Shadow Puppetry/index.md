@@ -1,12 +1,12 @@
 ---
-title: Cloth Simulation
-summary: Physical simulation acceleration using OpenGL Shader
+title: Shadow Puppetry Classification
+summary: Image classification with CNN
 tags:
-- Computer Graphics
-date: "2016-04-27T00:00:00Z"
+- Computer Vision
+date: "2018-09-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://ffjmmm.github.io/CS184-final/webpage/index.html"
+external_link: "https://ieeexplore.ieee.org/document/8632562"
 
 image:
   caption: Photo by rawpixel on Unsplash

@@ -1,5 +1,5 @@
 ---
-title: Illusion
+Shadow Puppetrytitle: Illusion
 share: false
 summary: A puzzle game developed with Unity
 tags:
@@ -33,7 +33,7 @@ slides: ""
 
 
 
-
+Aug. 2020 - Oct. 2020
 
 The core loop of this game is inspired by Monument Valley. We created the levels with new mechanisms and different themes. We calculated a specific orthographic camera angle and created scripts to achieve the smooth movement effect.
 
