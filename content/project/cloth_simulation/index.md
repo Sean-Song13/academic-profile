@@ -1,4 +1,7 @@
 ---
+# Order that this section appears on the page.
+weight: 20
+
 title: Cloth Simulation
 summary: Physical simulation acceleration using OpenGL Shader
 tags:

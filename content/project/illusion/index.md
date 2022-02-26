@@ -1,4 +1,7 @@
 ---
+# Order that this section appears on the page.
+weight: 10
+
 Shadow Puppetrytitle: Illusion
 share: false
 summary: A puzzle game developed with Unity
